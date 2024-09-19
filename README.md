@@ -15,7 +15,7 @@ This repository contains a simple Android application that demonstrates how to u
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/webview-example.git
+    git clone https://github.com/oguzhangozdogan/webview-example.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the application on an Android device or emulator.
